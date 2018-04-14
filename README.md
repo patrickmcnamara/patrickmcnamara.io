@@ -1,6 +1,6 @@
 # Patrick McNamara's Personal Website
 
-This is the repository for my personal website [patrickmcnamara.me](https://patrickmcnamara.me).
+A personal website for Patrick McNamara, a computer science student living in Dublin, Ireland. Found at [patrickmcnamara.me](https://patrickmcnamara.me).
 
 This website is proudly 100% UTF-8 plaintext. No images. Even the favicon is technically a plaintext file. Though this is unfortunately unsupported in most browsers.
 
