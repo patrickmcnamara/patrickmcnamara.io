@@ -1,0 +1,35 @@
+body {
+  font-family: 'Fira Code', 'Iosevka', 'Hack', 'Inconsolata', 'Courier', monospace;
+  color: white;
+  background: black;
+  width: 50%;
+  max-width: 900px;
+  min-width: 300px;
+  margin: auto;
+  border: none;
+  padding: 10px;
+}
+.hightlight1 {
+  color: white;
+  background: red;
+}
+.hightlight2 {
+  color: white;
+  background: green;
+}
+.hightlight3 {
+  color: white;
+  background: blue;
+}
+a:link {
+  color: black;
+  background: cyan;
+}
+a:hover {
+  color: black;
+  background: magenta;
+}
+a:visited {
+  color: black;
+  background: yellow;
+}
