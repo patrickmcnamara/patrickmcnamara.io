@@ -2,12 +2,11 @@ body {
   font-family: 'Fira Code', 'Input Mono', 'Hack', 'Iosevka', 'Inconsolata', 'Monoid', 'Consolas', 'Monaco', 'Roboto Mono', 'Menlo', monospace;
   color: white;
   background: black;
-  width: 50%;
-  max-width: 900px;
-  min-width: 300px;
+  max-width: 800px;
+  min-width: 200px;
   margin: auto;
   border: none;
-  padding: 10px;
+  padding: 16px;
 }
 .hightlight1 {
   color: white;
