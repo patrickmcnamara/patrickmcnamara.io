@@ -1,34 +1,28 @@
 body {
-  font-family: 'Fira Code', 'Input Mono', 'Hack', 'Iosevka', 'Inconsolata', 'Monoid', 'Consolas', 'Monaco', 'Roboto Mono', 'Menlo', monospace;
-  color: white;
-  background: black;
+  font-family: 'Consolas', 'Monaco', 'Roboto Mono', 'Menlo', monospace;
+  color: #fff;
+  background: #000;
   max-width: 800px;
   min-width: 200px;
   margin: auto;
   border: none;
   padding: 16px;
 }
-.hightlight1 {
-  color: white;
-  background: red;
+.hl1 {
+  background: #f00;
 }
-.hightlight2 {
-  color: white;
-  background: green;
+.hl2 {
+  background: #0f0;
 }
-.hightlight3 {
-  color: white;
-  background: blue;
+.hl3 {
+  background: #00f;
 }
 a:link {
-  color: black;
-  background: cyan;
+  background: #0ff;
 }
 a:hover {
-  color: black;
-  background: magenta;
+  background: #f0f;
 }
 a:visited {
-  color: black;
-  background: yellow;
+  background: #ff0;
 }
