@@ -1,12 +1,8 @@
-ew = false;
-function tB() {
-  if (ew) {
-    document.body.style.color = "#fff";
-    document.body.style.background = "#000";
-    ew = false;
-  } else {
-    document.body.style.color = "#000";
-    document.body.style.background = "#fff";
-    ew = true;
-  }
+d = 0;
+function r() {
+  d += 5;
+  document.body.style.transform = "rotate(" + d + "deg)"
+}
+window.onload = function(){
+  document.getElementById("r").onclick = function() {r()};
 }
