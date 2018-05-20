@@ -1,8 +1,8 @@
-d = 0;
-function r() {
-  d += 5;
-  document.body.style.transform = "rotate(" + d + "deg)"
-}
-window.onload = function(){
-  document.getElementById("r").onclick = function() {r()};
+var d = new Date().toISOString();
+var e = document.createElement("p")
+var t = document.createTextNode("// " + d)
+e.appendChild(t)
+
+window.onload = function appendISO8601() {
+document.body.appendChild(e)
 }
