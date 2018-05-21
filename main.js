@@ -3,7 +3,7 @@ function getTimestamp() {
   return t;
 }
 function getChecksum() {
-  var s = document.documentElement.outerText;
+  var s = document.documentElement.innerText;
   var chk = 0x12345678;
   var len = s.length;
   for (var i = 0; i < len; i++) {
