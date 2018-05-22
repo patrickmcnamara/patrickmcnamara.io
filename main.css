@@ -8,21 +8,27 @@ body {
   border: none;
   padding: 16px;
 }
+
 .hl1 {
   background: #f00;
 }
+
 .hl2 {
   background: #0f0;
 }
+
 .hl3 {
   background: #00f;
 }
+
 a:link {
   background: #0ff;
 }
+
 a:hover {
   background: #f0f;
 }
+
 a:visited {
   background: #ff0;
 }
