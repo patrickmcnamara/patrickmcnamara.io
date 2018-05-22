@@ -1,9 +1,13 @@
 # Patrick McNamara's Personal Website
 
-A personal website for Patrick McNamara, a computer science student living in Dublin, Ireland. Found at [patrickmcnamara.xyz](https://patrickmcnamara.xyz).
+---
 
-This website is proudly 100% UTF-8 plaintext. No images. Even the favicon is technically a plaintext file. Though this is unfortunately unsupported in most browsers.
+Live version found at [patrickmcnamara.xyz](https://patrickmcnamara.xyz). Previosuly [patrickmcnamara.me](https://patrickmcnamara.me).
 
-This website's code follows Google's style guides for [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html) and [JavaScript](https://google.github.io/styleguide/jsguide.html).
+---
 
-This website is free. You can redistribute it and/or modify it as you wish under the terms of [the Unlicense](https://github.com/patrickmcnamara/patrickmcnamara.xyz/blob/master/LICENSE.txt).
+A personal website for *Patrick McNamara* - a computer science student living in Dublin, Ireland.
+
+It is 100% UTF-8 plaintext and will stay that way. I am trying to keep the website as small as possible as I want it to load as quickly as possible. You might think it's ugly, but I like it.
+
+This is free. You can redistribute it and/or modify it as you wish under the terms of [the Unlicense](https://github.com/patrickmcnamara/patrickmcnamara.xyz/blob/master/LICENSE.txt).
