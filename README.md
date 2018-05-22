@@ -2,7 +2,7 @@
 
 ---
 
-Live version found at [patrickmcnamara.xyz](https://patrickmcnamara.xyz). Previosuly [patrickmcnamara.me](https://patrickmcnamara.me).
+Live version found at [patrickmcnamara.xyz](https://patrickmcnamara.xyz). Previously [patrickmcnamara.me](https://patrickmcnamara.me).
 
 ---
 
