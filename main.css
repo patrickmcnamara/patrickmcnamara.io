@@ -1,7 +1,7 @@
 body {
   font-family: monospace, monospace;
-  color: #fff;
-  background: #000;
+  color: #ddd;
+  background: #222;
   max-width: 800px;
   min-width: 200px;
   margin: auto;
@@ -9,26 +9,10 @@ body {
   padding: 16px;
 }
 
-.hl1 {
-  background: #f00;
-}
-
-.hl2 {
-  background: #0f0;
-}
-
-.hl3 {
-  background: #00f;
-}
-
-a:link {
-  background: #0ff;
-}
-
-a:hover {
-  background: #f0f;
+a {
+  color: #999;
 }
 
 a:visited {
-  background: #ff0;
+  color:#666;
 }
