@@ -1,8 +1,23 @@
 body {
   font-family: monospace, monospace;
+  color: #fff;
+  background-color: #000;
+
   max-width: 48rem;
   min-width: 16rem;
   margin: auto;
   border: none;
   padding: 1rem;
+}
+
+a:link {
+  color: #0ff;
+}
+
+a:hover, a:active {
+  color: #ff0;
+}
+
+a:visited {
+  color: #f0f;
 }
