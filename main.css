@@ -21,3 +21,7 @@ a:hover, a:active {
 a:visited {
   color: #f0f;
 }
+
+address {
+  font-style: normal;
+}
